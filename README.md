@@ -19,10 +19,10 @@ This dataset is annotated and released by pkumod group. If you use this dataset 
 >title={The Value of Paraphrase for Knowledge Base Predicates},  
 >author={Bingcong Xue, Sen Hu, Lei Zou, Jiashu Cheng},  
 >booktitle={The Thirty-Fourth {AAAI} Conference on Artificial Intelligence, {AAAI}  
->>2020, The Thirty-Second Innovative Applications of Artificial Intelligence  
->>Conference, {IAAI} 2020, The Tenth {AAAI} Symposium on Educational To   
->>Advances in Artificial Intelligence, {EAAI} 2020, Hilton New York Midtown, New York,  
->>USA, February 7-12, 2020},  
+>  2020, The Thirty-Second Innovative Applications of Artificial Intelligence  
+>  Conference, {IAAI} 2020, The Tenth {AAAI} Symposium on Educational To   
+>  Advances in Artificial Intelligence, {EAAI} 2020, Hilton New York Midtown, New York,  
+>  USA, February 7-12, 2020},  
 >volume={},  
 >pages={},  
 >year={2020}  
