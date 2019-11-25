@@ -1,3 +1,2 @@
 # Paraphrase
-A paraphrase dictionary for the predicates in DBpedia.
-This dictionary contains over 2000 distinct predicates in DBpedia with over 30000 paraphrase pairs, in the form of "predicate'\t'paraphrase phrase'\t'score", which combines the technologies of machine algorithms and crowdsourcing.
+A paraphrase dictionary for predicates in DBpedia, which takes advantage of existing datasets and combines the technologies of machine mining and crowdsourcing. It is composed of 2284 distinct predicates in DBpedia and over 30,000 paraphrase pairs in total, in the form of <predicate, paraphrase words or phrases, score>.
