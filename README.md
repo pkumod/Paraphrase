@@ -1,8 +1,6 @@
 # Paraphrase
 A paraphrase dictionary for predicates in DBpedia, which takes advantage of existing datasets and combines the technologies of machine mining and crowdsourcing. It is composed of 2284 distinct predicates in DBpedia and over 30,000 paraphrase pairs in total, in the form of <predicate, paraphrase words or phrases, score>.  
 
-You can also find the camera-ready version of our paper for AAAI-20 here.  
-
 Here are some examples:  
 >academicAdvisor	again work	19  
 >academicAdvisor	also study under	53  
@@ -12,6 +10,9 @@ Here are some examples:
 >hometown	bear grow up	108  
 >hometown	be left at	53  
 >hometown	be live	102  
+
+You can find all the data in "dic.txt".  
+"AAAI-XueB.5511.pdf" is the camera-ready version of out paper for AAAI2020.
   
 # Citation
 This dataset is annotated and released by pkumod group. If you use this dataset in your research work, please cite the following paper.
